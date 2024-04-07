@@ -1,4 +1,0 @@
-package textedittor
-
-class model {
-}
